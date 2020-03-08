@@ -1,2 +1,4 @@
 print ("Hello Word")
 print ("Hello everybody")
+
+/*проверка*/
